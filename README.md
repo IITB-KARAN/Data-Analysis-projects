@@ -1,4 +1,4 @@
-# Beginner Data Analysis Projects - Mithun
+# Beginner Data Analysis Projects 
 
 Welcome to my *Beginner Data Analysis Projects* repository! 🎉  
 
