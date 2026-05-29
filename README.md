@@ -79,4 +79,4 @@ This repository contains a collection of *beginner-friendly projects in data ana
 
 ---
 
-✨ This repository is a showcase of my journey in *data science and analytics*, reflecting my learning process and hands-on experimentation with Python.
+ This repository is a showcase of my journey in *data science and analytics*, reflecting my learning process and hands-on experimentation with Python.
