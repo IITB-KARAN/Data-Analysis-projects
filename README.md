@@ -1,6 +1,6 @@
 # Beginner Data Analysis Projects 
 
-Welcome to my *Beginner Data Analysis Projects* repository! 🎉  
+Welcome to my *Beginner Data Analysis Projects* repository! 
 
 This repository contains a collection of *beginner-friendly projects in data analysis* implemented in *Python using Jupyter Notebooks. Each project focuses on building a strong foundation in **statistics, data visualization, and basic machine learning techniques. These projects are perfect for those starting their journey in **data science* and wanting to practice hands-on with real datasets.  
 
